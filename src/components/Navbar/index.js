@@ -35,7 +35,7 @@ const Navbar = () => {
                     : "nav-link"
                 }
               >
-                Directory
+                Search Team
               </Link>
             </li>
           </ul>
