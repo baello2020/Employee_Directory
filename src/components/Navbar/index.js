@@ -10,7 +10,7 @@ const Navbar = () => {
     <Router>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <Link className="navbar-brand" to="/">
-          TeamBase: Employee Directory
+          Orlando's Team Directory
         </Link>
         <div>
           <ul className="navbar-nav">
@@ -23,7 +23,7 @@ const Navbar = () => {
                     : "nav-link"
                 }
               >
-                About
+                Home
               </Link>
             </li>
             <li className="nav-item">

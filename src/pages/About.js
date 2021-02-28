@@ -8,31 +8,22 @@ import backgroundImage from "./images/workplace.jpg";
 const About = () => {
   return (
     <div>
+      
       <Hero backgroundImage={backgroundImage}>
         <h1>Keep your team connected.</h1>
-        <h2>Manage with ease.</h2>
+        <h2 >“If you can laugh together, you can work together.”
+Robert Orben</h2>
       </Hero>
       <Container>
         <Row>
           <Col size="md-12">
-            <h1>Welcome to TeamBase!</h1>
+            <h1>Welcome to Employee Directory!</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga eius
-              illo nobis ea, deleniti libero obcaecati magnam, aliquid dicta non
-              et voluptates qui? Ipsa consequuntur libero totam perspiciatis
-              amet sit repellat, excepturi debitis modi ut voluptatum ad qui,
-              quae laborum aliquid eum voluptates aut! Ex et tempora,
-              voluptatibus maiores fugiat reiciendis earum dolores nostrum id
-              eveniet omnis placeat, consequatur ipsam!
+            As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
             </p>
             <br />
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt ad
-              ea architecto itaque provident earum dolor beatae, ab minima
-              velit, blanditiis temporibus explicabo? Dicta dignissimos quos
-              ipsum minima optio similique odit magni aliquid pariatur?
-              Laudantium esse eligendi ad iusto obcaecati fuga mollitia ut quis
-              culpa.
+            An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
             </p>
           </Col>
         </Row>
