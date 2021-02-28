@@ -1,5 +1,5 @@
 {
-  "homepage": "https://baello2020.github.io/Employee_Directory",
+
   "name": "employee-dir",
   "version": "0.1.0",
   "private": true,
@@ -9,12 +9,10 @@
     "@testing-library/user-event": "^12.7.3",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
-    "jest-dom": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "user-event": "^4.0.0",
     "web-vitals": "^1.1.0"
   },
   "scripts": {

@@ -10,9 +10,8 @@ const About = () => {
     <div>
       
       <Hero backgroundImage={backgroundImage}>
-        <h1>TEAM.</h1>
-        <h2 >“If you can laugh together,</h2>
-<h2 >you can work together.”
+        <h1>Keep your team connected.</h1>
+        <h2 >“If you can laugh together, you can work together.”
 Robert Orben</h2>
       </Hero>
       <Container>
