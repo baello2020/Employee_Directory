@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  transition: bottom 0.3s;
+}
+
+.footer span {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #b8b8b8;
+}

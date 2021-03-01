@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import About from "../../pages/About";
 import Directory from "../../pages/Directory";
-
 import "./style.css";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
@@ -59,4 +58,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
