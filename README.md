@@ -49,4 +49,4 @@ please feel free to ask me any questions.
 * Baello2020@gmail.com
 
 ## Demo_Animation
-![Demo](Screen shot animation here. "Demo")
+![Demo](https://github.com/baello2020/Employee_Directory/blob/main/src/pages/images/employee-dir.gif "Demo")
