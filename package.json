@@ -1,6 +1,6 @@
 {
-
-  "name": "19-employee-directory",
+  "homepage": "https://baello2020.github.io/Employee_Directory",
+  "name": "employee-dir",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,17 +43,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  },
-  "description": "For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/baello2020/Employee_Directory.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/baello2020/Employee_Directory/issues"
   }
 }

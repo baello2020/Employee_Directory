@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../components/Hero";
-import Container from "../components/Container";
+import Container from "../components/Container"; 
 import Row from "../components/Row";
 import Col from "../components/Col";
 import backgroundImage from "./images/workplace.jpg";
@@ -10,7 +10,7 @@ const About = () => {
     <div>
       
       <Hero backgroundImage={backgroundImage}>
-        <h1>Keep your team connected.</h1>
+        <h1>TEAM</h1>
         <h2 >“If you can laugh together, you can work together.”
 Robert Orben</h2>
       </Hero>

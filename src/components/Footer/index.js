@@ -15,7 +15,7 @@ const Footer = () => {
 
   return (
     <footer className="footer">
-      <span>&copy; Taani Maama 2021</span>
+      <span>&copy; Orlando Baello 2021</span>
     </footer>
   );
 };

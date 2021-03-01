@@ -3,6 +3,8 @@
   background-size: cover;
   background-position: center;
   position: relative;
+  
+  
 }
 
 .hero::after {
@@ -24,7 +26,7 @@
 
 .hero h1,
 .hero h2 {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .hero h1 {
